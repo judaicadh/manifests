@@ -10,8 +10,8 @@
         "site_iri": "http://shira.wikibase.cloud/entity/",
         "maxlag": 5,
         "properties": {
-            "instance_of": "P39”,
-            "subclass_of": "P40”
+            "instance_of": "P39",
+            "subclass_of": "P40"
         }
     },
     "oauth": {
