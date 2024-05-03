@@ -1,0 +1,2 @@
+# manifests
+Manifests for Wikibase
