@@ -1,0 +1,23 @@
+{
+    "version": "1.0",
+    "mediawiki": {
+        "name": "OpenRefine Wikibase Test",
+        "root": "https://shira.wikibase.cloud",
+        "main_page": "https://shira.wikibase.cloud/wiki/Main_Page",
+        "api": "https://shira.wikibase.cloud/w/api.php"
+    },
+    "wikibase": {
+        "site_iri": "http://shira.wikibase.cloud/entity/",
+        "maxlag": 5,
+        "properties": {
+            "instance_of": "P39”,
+            "subclass_of": "P40”
+        }
+    },
+    "oauth": {
+        "registration_page": "https://shira.wikibase.cloud/wiki/Special:OAuthConsumerRegistration/propose"
+    },
+    "reconciliation": {
+        "endpoint": "http://localhost:8000/en/api"
+    }
+}
